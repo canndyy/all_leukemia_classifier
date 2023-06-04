@@ -1,0 +1,11 @@
+tensorflow
+sklearn
+matplotlib
+seaborn
+numpy
+pandas
+os
+Io
+PIL
+pickle
+
